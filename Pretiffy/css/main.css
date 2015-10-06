@@ -1,0 +1,72 @@
+* {
+	font-family: 'Oswald';
+}
+
+html, body {
+	height: 100%;
+	font-weight: bold;
+}
+
+header {
+	margin: 7% 4.5% 2%;
+}
+
+nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	margin: 5%;
+}
+
+.hero-image {
+	height: 50%;
+	background: url("../images/background.jpg") no-repeat;
+	background-size: 100%;
+	border-top: 1px solid black;
+	padding: 4%;
+	color: white;
+	margin-top: 10%;
+}
+
+h1 {
+	text-transform: uppercase;
+	margin: 2%;
+}
+
+.about-me {
+	background: url("../images/tile1.png");
+	padding: 3%;
+}
+
+.img-perfil {
+	border: 1px solid black;
+	padding: 2%;
+	width: 90%;
+}
+
+.descripcion {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.my-favourites-things {
+	padding: 3% 20%;
+}
+
+.img-favourite {
+	width: 100%;
+	border-radius: 100%;
+	border: 1px solid #8A0868;
+	padding: 2%;
+	margin: 5% 0%;
+}
+
+footer {
+	background: url("../images/tile2.png");
+	padding: 5% 30%;
+}
+
+h2, h4 {
+	color: #8A0868;
+	margin: 3%;
+}
